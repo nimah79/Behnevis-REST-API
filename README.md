@@ -8,7 +8,7 @@ REST API for Behnevis, written in PHP
 `text`
 
 ## Example
-`http://yourdomain.com/subscene.php?movie=fast%20five`
+`http://yourdomain.com/behnevis.php?text=salaam`
 
 ## Response
 The API will send a response in JSON format with this objects:

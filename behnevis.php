@@ -1,9 +1,10 @@
 <?php
 
 /*
-Behnevis REST API
-By NimaH79
-http://cortatech.ir
+ * Behnevis REST API
+ * By NimaH79
+ * NimaH79.ir
+ * @NimaH79
 */
 
 header('Content-Type: application/json');

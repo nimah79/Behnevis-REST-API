@@ -1,5 +1,5 @@
-# Behnevis-REST-API
-REST API for Behnevis, written in PHP
+# Behnevis-Wrapper
+Simple wrapper for Behnevis.com
 
 ## Required PHP modules
 `php-curl`
